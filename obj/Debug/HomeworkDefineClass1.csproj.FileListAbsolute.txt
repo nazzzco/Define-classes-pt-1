@@ -1,0 +1,6 @@
+D:\Telerik\oop\myhomework\HomeworkDefineClass1\HomeworkDefineClass1\bin\Debug\HomeworkDefineClass1.exe.config
+D:\Telerik\oop\myhomework\HomeworkDefineClass1\HomeworkDefineClass1\bin\Debug\HomeworkDefineClass1.exe
+D:\Telerik\oop\myhomework\HomeworkDefineClass1\HomeworkDefineClass1\bin\Debug\HomeworkDefineClass1.pdb
+D:\Telerik\oop\myhomework\HomeworkDefineClass1\HomeworkDefineClass1\obj\Debug\HomeworkDefineClass1.csprojResolveAssemblyReference.cache
+D:\Telerik\oop\myhomework\HomeworkDefineClass1\HomeworkDefineClass1\obj\Debug\HomeworkDefineClass1.exe
+D:\Telerik\oop\myhomework\HomeworkDefineClass1\HomeworkDefineClass1\obj\Debug\HomeworkDefineClass1.pdb
